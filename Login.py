@@ -16,7 +16,6 @@ accounts = [
 window = Tk()
 window.geometry('640x560')
 window.title('Login')
-window.iconbitmap('C:\\Users\\Hassan Eldeken\\Desktop\\Log in\img\\icon.ico')
 window.configure(bg='purple')
 window.resizable(False, False)
 
